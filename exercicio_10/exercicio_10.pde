@@ -4,6 +4,7 @@ void setup () {
   background(0);
   rectMode(CENTER);  
 }
+
 void draw () {
   desenho(width,height, mouseX);
 }
