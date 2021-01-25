@@ -4,8 +4,8 @@ PImage imgParado, imgMartelando;
 //Configuracao inicial
 void setup(){
   size(600,600);
-  imgParado = loadImage("/home/paulohgs/Pictures/sprites/parado.png");
-  imgMartelando = loadImage("/home/paulohgs/Pictures/sprites/martelando.png");
+  imgParado = loadImage("parado.png");
+  imgMartelando = loadImage("martelando.png");
 }
 
 //Loop Principal
